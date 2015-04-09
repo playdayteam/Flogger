@@ -13,12 +13,6 @@ var defaultDateFormatCallback = function () {
     return new Date().toISOString();
 };
 
-/**
- * @param {Array} types Типы логов
- * @param {Object} filenamesByType Типы логов
- * @param {String} path Путь у логам
- * @param {Object} inheritance Ассоциативный массив наследник => родитель
- */
 var Log = function (params) {
     params = params || {};
     var path = params.path || '.';
