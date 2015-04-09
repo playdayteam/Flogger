@@ -1,6 +1,6 @@
 {
   "name": "flogger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple file logger for node.js",
   "main": "main.js",
   "scripts": {
