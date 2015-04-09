@@ -1,0 +1,24 @@
+{
+  "name": "flogger",
+  "version": "1.0.0",
+  "description": "Simple file logger for node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodejs test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/playdayteam/Flogger.git"
+  },
+  "keywords": [
+    "node.js",
+    "file",
+    "log",
+    "inheritance"
+  ],
+  "author": "Alex Novikov <alex00888@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/playdayteam/Flogger/issues"
+  }
+}
